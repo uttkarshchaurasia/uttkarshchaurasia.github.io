@@ -5,11 +5,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  Department of Computer Science and Engineering 
-  National Institute of Technology Hamirpur
-  (An Autonomous Institute under MHRD, Govt. of India) 
-  Anu Road, Hamirpur, Himachal Pradesh - 177005, India
-  <br>
+  Department of Computer Science and Engineering<br>
+  National Institute of Technology Hamirpur<br>
+  (An Autonomous Institute under MHRD, Govt. of India)<br>
+  Anu Road, Hamirpur<br>
+  Himachal Pradesh - 177005, India
+  <br><br>
   <a href="https://www.linkedin.com/in/uttkarsh-chaurasia-7a31b4171/"><i class="fab fa-linkedin-in"></i>LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
