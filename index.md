@@ -52,6 +52,10 @@
 - [Sequence Models](https://www.coursera.org/verify/YVJX3VGF8QXF)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
+<!-- --- -->
+- [Specialization Certificate](https://www.coursera.org/verify/specialization/BGCTUNJTK2N8)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
 ---
 
 ### Tensorflow Professional Developer Certificate
@@ -69,6 +73,10 @@
 
 <!-- --- -->
 - [Sequences, Time Series and Prediction](https://www.coursera.org/verify/ELJ39YAL46BV)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Specialization Certificate](https://www.coursera.org/verify/specialization/TGZGFPEQBLDD)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
