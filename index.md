@@ -54,6 +54,25 @@
 
 ---
 
+### Tensorflow Professional Developer Certificate
+
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/verify/SBYMFZ8ZBBYT)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/verify/JHUKV32QHN2Z)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Natural Language Processing in TensorFlow](https://www.coursera.org/verify/QVK4WKPUWUU5)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Sequences, Time Series and Prediction](https://www.coursera.org/verify/ELJ39YAL46BV)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
