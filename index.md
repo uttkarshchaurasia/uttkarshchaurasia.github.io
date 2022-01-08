@@ -33,24 +33,24 @@
 
 ### Deep Learning Specialization
 
-[Neural Networks and Deep Learning](https://www.coursera.org/verify/V7LR8ERSKCTV)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Neural Networks and Deep Learning](https://www.coursera.org/verify/V7LR8ERSKCTV)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
-[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/verify/YDV5C2FRLNHV)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- --- -->
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/verify/YDV5C2FRLNHV)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
-[Structuring Machine Learning Projects](https://www.coursera.org/verify/7JQPLH7BCQAL)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- --- -->
+- [Structuring Machine Learning Projects](https://www.coursera.org/verify/7JQPLH7BCQAL)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
-[Convolutional Neural Networks](https://www.coursera.org/verify/6NUCKQERAUEP)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- --- -->
+- [Convolutional Neural Networks](https://www.coursera.org/verify/6NUCKQERAUEP)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
-[Sequence Models](https://www.coursera.org/verify/YVJX3VGF8QXF)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- --- -->
+- [Sequence Models](https://www.coursera.org/verify/YVJX3VGF8QXF)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
