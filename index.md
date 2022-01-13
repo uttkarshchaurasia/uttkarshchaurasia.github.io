@@ -81,6 +81,33 @@
 
 ---
 
+### Competitive Programming and C++
+
+- [Introduction to C++](https://students.codingninjas.com/verify/252e99ee616cc625)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Certificate of Excellence: Introduction to C++](https://students.codingninjas.com/verify/06dafaf65630fe53)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Data Structures in C++](https://students.codingninjas.com/verify/45a7000e6dce1c70)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Certificate of Excellence: Data Structures in C++](https://students.codingninjas.com/verify/ba901792c98da858)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Competitive Programming](https://students.codingninjas.com/verify/63ae196513968e34)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- --- -->
+- [Certificate of Excellence: Competitive Programming](https://students.codingninjas.com/verify/7a15445191e428fd)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
