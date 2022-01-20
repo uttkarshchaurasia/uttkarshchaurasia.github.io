@@ -8,7 +8,7 @@
 
 The project mainly focuses on helping blind people become self-reliant and independent when navigating through busy roads, crowded streets, and challenging terrain. The Survey is taken by My Voice, which records the difficulties and expectations of the blind clearly shows their inability to use today’s technology for their help.
 
-Here is the link for the survey :- [Link](https://drive.google.com/open?id=1235zr3qG1PiDtsmFYt6XBmP0tAwXl1tD).
+Here is the [Link](https://drive.google.com/open?id=1235zr3qG1PiDtsmFYt6XBmP0tAwXl1tD) of the survey.
 
 They also feel that holding a cane while commuting makes them an easy target for hate crimes.
 
