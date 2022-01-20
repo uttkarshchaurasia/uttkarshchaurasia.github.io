@@ -6,13 +6,26 @@
 
 #### Customer need identification
 
-1. The project mainly focuses on helping blind people become self-reliant and independent when navigating through busy roads, crowded streets, and challenging terrain. The Survey is taken by My Voice, which records the difficulties and expectations of the blind clearly shows their inability to use today’s technology for their help. Here is the [link](https://drive.google.com/open?id=1235zr3qG1PiDtsmFYt6XBmP0tAwXl1tD) of the survey.
+1. The project mainly focuses on helping blind people become self-reliant and independent when navigating through busy roads, crowded streets, and challenging terrain. The Survey is taken by My Voice, which records the difficulties and expectations of the blind clearly shows their inability to use today’s technology for their help. Here is the [link](https://drive.google.com/open?id=1235zr3qG1PiDtsmFYt6XBmP0tAwXl1tD) of the survey. They also feel that holding a cane while commuting makes them an easy target for hate crimes. The project is a revolutionising step in this direction.
 
-  They also feel that holding a cane while commuting makes them an easy target for hate crimes. The project is a revolutionising step in this direction.
-
-  Add Image
+Add Image
 
 2. Road accidents have had such a trend in the past years. If this is the case for pedestrians with normal eyesight, these statistics raise significant concern for the safety of the visually impaired on the streets. The project aims at reducing that threat. Here is the [link](https://injuryfacts.nsc.org/motor-vehicle/road-users/ pedestrians/data-details/) for the trend.
+
+3. Major navigating platforms out there also lack short paths that are either undetected by satellites or are seasonal paths that are only usable during some seasons. These routes may be the fastest and most suitable routes when navigating through some terrains, and still, major navigating platforms might not recommend them just because they do not have them in their database. These observations and recordings of our project can be sold to Big Data Clients.
+
+#### Serviceable addressable markets (SAM)
+
+1. Government medical hospitals : The project will lead to faster treatment of blind people. It provides a lifetime solution rather than keeping the patient chained to the tedious cycle of returning to the hospital now and then.
+
+2. Big Data Clients : Those willing to improve and optimise their navigation platform can get a good collection of valuable data recorded by our products.
+
+#### Product differentiation with respect to competitors
+
+1. Accuracy more than GPS based products and [service providers](https://www.blindsquare.com/). Those who have tried to target the same issues have used GPS for navigation which does not provide real-time obstacle detection.
+
+2. Our products do obstacle sensing using sensors as well rather than just simple image processing which increases accuracy. Hence, no faulty identification like this [app](https://play.google.com/store/apps/details?id=com.mediate.supersense) on play store.
+
 
 ```javascript
 if (isAwesome){
