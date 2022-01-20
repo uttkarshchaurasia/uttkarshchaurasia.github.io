@@ -8,9 +8,9 @@
 
 1. The project mainly focuses on helping blind people become self-reliant and independent when navigating through busy roads, crowded streets, and challenging terrain. The Survey is taken by My Voice, which records the difficulties and expectations of the blind clearly shows their inability to use today’s technology for their help. Here is the [link](https://drive.google.com/open?id=1235zr3qG1PiDtsmFYt6XBmP0tAwXl1tD) of the survey.
 
-They also feel that holding a cane while commuting makes them an easy target for hate crimes. The project is a revolutionising step in this direction.
+  They also feel that holding a cane while commuting makes them an easy target for hate crimes. The project is a revolutionising step in this direction.
 
-Add Image
+  Add Image
 
 2. Road accidents have had such a trend in the past years. If this is the case for pedestrians with normal eyesight, these statistics raise significant concern for the safety of the visually impaired on the streets. The project aims at reducing that threat. Here is the [link](https://injuryfacts.nsc.org/motor-vehicle/road-users/ pedestrians/data-details/) for the trend.
 
