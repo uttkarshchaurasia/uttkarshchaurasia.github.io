@@ -26,12 +26,17 @@ Add Image
 
 2. Our products do obstacle sensing using sensors as well rather than just simple image processing which increases accuracy. Hence, no faulty identification like this [app](https://play.google.com/store/apps/details?id=com.mediate.supersense) on play store.
 
+#### Understanding of our customers and users
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+1. Customer : Government Hsopitals; User : Blind and visually impaired patients.
+
+2. Customer and user : Big Data Clients
+
+#### Distribution channel identification
+
+1. Direct bulk supply to the hospital
+
+2. Providing data of commonly used paths and those undetected by GPS and satellites.
 
 ### 2. Assess assumptions on which statistical inference will be based
 
